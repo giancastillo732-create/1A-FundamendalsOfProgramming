@@ -3,7 +3,7 @@ public class Assignment4Scanner {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter your height: ");
+        System.out.print("Enter your age: ");
         double height = sc.nextDouble();
 
         System.out.print("Enter hours worked: ");
