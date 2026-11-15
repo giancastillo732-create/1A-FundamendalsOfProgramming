@@ -6,7 +6,7 @@ public class Assignment4Scanner {
         System.out.print("Enter your height: ");
         double height = sc.nextDouble();
 
-        System.out.print("Enter hours worked: ");
+        System.out.print("Enter hours age: ");
         int age = sc.nextInt();
 
         System.out.println("Enter citizenship code (C = citizen of Endor, N = non-citizen): ");
